@@ -65,7 +65,7 @@ body {
 
   .top-wrapper h2 {
     opacity: 1;
-    color: red;
+    
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;  
     animation: fade-in 2s ease-out;
     font-size: 50px;
